@@ -1,0 +1,3 @@
+content nodejs-formatters  chrome/content/
+ 
+overlay chrome://selenium-ide/content/selenium-ide-overlay.xul chrome://nodejs-formatters/content/formats/format-loader.xul

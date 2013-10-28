@@ -21,3 +21,7 @@ CREDITS:
 * Adam Goucher - Author of the Selenium IDE plugin API
 * Dave Hunt - Created the WebDriver Backed Selenium (Java) client formatters
 * Justin Spradlin - Created the WebDriver Backed Selenium (C#) client formatters
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/itayw/selenium-ide-webdriver-node/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
